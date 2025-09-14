@@ -16,8 +16,8 @@ Menu-driven interface
 Run app, compile, view code, open folder
 Multiple options in one place
 Best for: Development and management
-==========================================================================
-#🎯 How to Use:
+
+# 🎯 How to Use:
 Option 1: Double-Click
 Just double-click any .bat file in Windows Explorer
 The app will start automatically
