@@ -17,19 +17,19 @@ Run app, compile, view code, open folder
 Multiple options in one place
 Best for: Development and management
 ==========================================================================
-🎯 How to Use:
+#🎯 How to Use:
 Option 1: Double-Click
 Just double-click any .bat file in Windows Explorer
 The app will start automatically
 
 Option 2: Command Line
-# Simple version
+Simple version
 start_todo.bat
 
-# Smart version  
+Smart version  
 run_todo.bat
 
-# Full manager
+Full manager
 todo_manager.bat
 
 Option 3: Create Desktop Shortcut
